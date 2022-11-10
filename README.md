@@ -32,8 +32,8 @@ Software – Quartus prime
 ```
 /*
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: KERSOAN P
+RegisterNumber: 212221230050
 */
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 module Combination(A,B,C,D,F);
