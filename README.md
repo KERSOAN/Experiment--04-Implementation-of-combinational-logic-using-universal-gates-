@@ -1,4 +1,4 @@
-# Experiment--04-Implementation-of-combinational-logic-using-universal-gates-
+# Ex-04-Implementation-of-combinational-logic-using-universal-gates-
  ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To implement the given logic function using NAND and NOR gates and to verify its operation in Quartus using Verilog programming.
