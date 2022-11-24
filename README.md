@@ -5,16 +5,11 @@ To implement the given logic function using NAND and NOR gates and to verify its
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
-
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 ## Theory
  A universal gate is a logic gate which can implement any Boolean function without the need to use any other type of logic gate. The NOR gate and NAND gate are universal gates. This means that you can create any logical Boolean expression using only NOR gates or only NAND gates. In practice, this is advantageous since NOR and NAND gates are economical and easier to fabricate than other logic gates. Similarly, an OR gate is typically realised as a NOR gate followed by an inverter.
- 
- 
- 
-
 
 ## Procedure
 1.Create a project with required entities. 
